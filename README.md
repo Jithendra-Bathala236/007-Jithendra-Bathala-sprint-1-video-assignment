@@ -1,6 +1,7 @@
-# 007-Jithendra-sprint-1-video-assignments
+# 007-Jithendra-Bathala-sprint-1-video-assignments
 
 Name of Student- Jithendra Bathala
+
 Roll Number- 007
 
 Video1 Title- Conversions of number systems
